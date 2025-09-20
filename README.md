@@ -4,7 +4,7 @@ Flask and Docker
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 1.1: Installed Flask
-<img width="881" height="141" alt="image" src="https://github.com/user-attachments/assets/7d0bcddc-32cb-46dc-ab76-8a4f1925390d" />
+<img width="913" height="125" alt="image" src="https://github.com/user-attachments/assets/a6b89a9f-bc62-4006-95bc-09d6890ad9e6" />
 
 ## Activity 1.2: Replayed the textbook example
 
