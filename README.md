@@ -7,8 +7,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 <img width="913" height="125" alt="image" src="https://github.com/user-attachments/assets/a6b89a9f-bc62-4006-95bc-09d6890ad9e6" />
 
 ## Activity 1.2: Replayed the textbook example
+
 Example 2-1
 <img width="449" height="210" alt="image" src="https://github.com/user-attachments/assets/48717c66-7d77-4a9b-a309-6f4a0ec5679b" />
+
 Example 2-2
 <img width="543" height="204" alt="image" src="https://github.com/user-attachments/assets/9b1dcc9e-81ed-4eda-a7c8-a7a555103a34" />
 
