@@ -1,7 +1,14 @@
+# Imports: General
 from flask import Flask, render_template, session, redirect, url_for, flash
+
+# Imports: Styles
 from flask_bootstrap import Bootstrap
+
+# Imports: Date & Time
 from datetime import datetime, timezone
 from flask_moment import Moment
+
+# Imports: Forms
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired, Email, ValidationError
