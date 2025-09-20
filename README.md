@@ -15,6 +15,7 @@ Example 2-2
 <img width="543" height="204" alt="image" src="https://github.com/user-attachments/assets/9b1dcc9e-81ed-4eda-a7c8-a7a555103a34" />
 
 ## Activity 1.3: Replayed and modified the Chapter 3
+<img width="1091" height="414" alt="image" src="https://github.com/user-attachments/assets/69478750-910d-4fc2-bceb-4b1c90a6cfef" />
 
 ## Activity 1.4: Replayed and modified the Chapter 4
 
