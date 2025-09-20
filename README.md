@@ -50,4 +50,6 @@ Example 2-2
 <img width="1467" height="405" alt="image" src="https://github.com/user-attachments/assets/81925845-bcc1-4149-8943-87ae89ae81cd" />
 
 5. Application is running on http://localhost:5000
+<img width="2123" height="700" alt="image" src="https://github.com/user-attachments/assets/873ffa92-3791-4178-bf18-69aeac73722f" />
+
 
