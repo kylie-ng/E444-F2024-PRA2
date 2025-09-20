@@ -34,6 +34,7 @@ Example 2-2
 <img width="1173" height="247" alt="image" src="https://github.com/user-attachments/assets/3517b7cf-5a4c-464e-9ac6-7ad1f49ed508" />
 
 ## Activity 2.2: Docker installed
+<img width="546" height="74" alt="image" src="https://github.com/user-attachments/assets/267fa8f6-e8a9-47a3-8ff3-bb9695748ba8" />
 
 ## Activity 2.3 & 2.4
 1. PRA2 Activity 1.4 modified
