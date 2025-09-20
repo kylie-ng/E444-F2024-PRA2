@@ -18,6 +18,11 @@ Example 2-2
 <img width="757" height="366" alt="image" src="https://github.com/user-attachments/assets/b500530e-64aa-4374-90a4-cae896853a5b" />
 
 ## Activity 1.4: Replayed and modified the Chapter 4
+1.
+<img width="2136" height="552" alt="image" src="https://github.com/user-attachments/assets/68db9cf1-7a66-4bef-a5de-e4d33325c625" />
+
+2.
+
 
 ## Activity 2.1: Feature branch created
 
