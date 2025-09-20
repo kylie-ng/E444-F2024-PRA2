@@ -36,8 +36,10 @@ Example 2-2
 ## Activity 2.2: Docker installed
 <img width="546" height="74" alt="image" src="https://github.com/user-attachments/assets/267fa8f6-e8a9-47a3-8ff3-bb9695748ba8" />
 
-## Activity 2.3 & 2.4
-1. PRA2 Activity 1.4 modified
+## Activity 2.3: 1. PRA2 Activity 1.4 modified
+<img width="2179" height="663" alt="image" src="https://github.com/user-attachments/assets/8151e70b-47af-4506-8801-3fb6871e6dc1" />
+
+## Activity 2.4
 2. Dockerfile added
 3. requirements.txt added
 4. Docker image are built and run
