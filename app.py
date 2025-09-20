@@ -1,24 +1,17 @@
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
-from datetime import datetime
-from babel.dates import format_datetime
+from datetime import datetime, timezone
+from flask_moment import Moment
 
 app = Flask(__name__)
 Bootstrap(app)
+moment = Moment(app)
 
 # Activity 1.3: Home page
 @app.route('/')
 def index():
-    # Get current datetime
-    now = datetime.now()
-    # Babel uses "full" instead of "LLLL"
-    timestamp = format_datetime(now, format='full', locale='en_US')
-    return render_template('index.html', name="Kylie", timestamp=timestamp)
-
-# User page (from Example 2-2, 3-3, but fixed)
-@app.route('/user/<name>')
-def user(name):
-    return render_template('user.html', name=name)
+    current_time = datetime.now(timezone.utc)
+    return render_template('index.html', current_time=current_time)
 
 # Example 3-6 (Errror Handlers)
 @app.errorhandler(404)

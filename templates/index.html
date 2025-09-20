@@ -1,8 +1,12 @@
 {% extends "base.html" %}
 
-{% block title %}Home{% endblock %}
-
 {% block content %}
-  <h1>Hello {{ name }}!</h1>
-  <p>Current time: {{ timestamp }}</p>
+  <h1>Hello Kylie!</h1>
+  <p>Current time: <span id="time">{{ current_time }}</span></p>
+
+  <script>
+    const timeElement = document.getElementById('time');
+    const time = moment(timeElement.textContent);
+    timeElement.textContent = time.format('LLLL'); 
+  </script>
 {% endblock %}
