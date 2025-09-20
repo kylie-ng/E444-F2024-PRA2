@@ -41,6 +41,13 @@ Example 2-2
 
 ## Activity 2.4
 2. Dockerfile added
+<img width="1217" height="684" alt="image" src="https://github.com/user-attachments/assets/64154665-5185-4f64-aecc-507bb8abd27a" />
+
 3. requirements.txt added
+<img width="1022" height="730" alt="image" src="https://github.com/user-attachments/assets/c52620b7-08a3-401d-b53e-1077b6744a3a" />
+
 4. Docker image are built and run
+<img width="1467" height="405" alt="image" src="https://github.com/user-attachments/assets/81925845-bcc1-4149-8943-87ae89ae81cd" />
+
 5. Application is running on http://localhost:5000
+
