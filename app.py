@@ -12,7 +12,7 @@ def index():
     # Get current datetime
     now = datetime.now()
     # Babel uses "full" instead of "LLLL"
-    timestamp = format_datetime(datetime.now(), format='full')
+    timestamp = format_datetime(now, format='full', locale='en_US')
     return render_template('index.html', name="Kylie", timestamp=timestamp)
 
 # User page (from Example 2-2, 3-3, but fixed)
