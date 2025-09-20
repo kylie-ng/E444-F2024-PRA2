@@ -1,4 +1,4 @@
-# ECE444-F2025-PRA2
+# ECE444-F2024-PRA2
 Flask and Docker
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky
