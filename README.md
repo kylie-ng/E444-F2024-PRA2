@@ -31,6 +31,7 @@ Example 2-2
 <img width="2139" height="760" alt="image" src="https://github.com/user-attachments/assets/9db5c640-2c6c-4373-9d2a-0311159a2595" />
 
 ## Activity 2.1: Feature branch created
+<img width="1173" height="247" alt="image" src="https://github.com/user-attachments/assets/3517b7cf-5a4c-464e-9ac6-7ad1f49ed508" />
 
 ## Activity 2.2: Docker installed
 
