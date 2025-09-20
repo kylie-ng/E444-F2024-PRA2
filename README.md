@@ -21,7 +21,7 @@ Example 2-2
 1.
 <img width="2136" height="552" alt="image" src="https://github.com/user-attachments/assets/68db9cf1-7a66-4bef-a5de-e4d33325c625" />
 
-2. 
+2. & 3. 
 <img width="2142" height="840" alt="image" src="https://github.com/user-attachments/assets/ad840693-4a64-4e6a-b7b0-91e842f3cf93" />
 
 ## Activity 2.1: Feature branch created
