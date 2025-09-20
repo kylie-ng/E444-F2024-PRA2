@@ -24,6 +24,12 @@ Example 2-2
 2. & 3. 
 <img width="2142" height="840" alt="image" src="https://github.com/user-attachments/assets/ad840693-4a64-4e6a-b7b0-91e842f3cf93" />
 
+4.
+<img width="2095" height="824" alt="image" src="https://github.com/user-attachments/assets/86fd9b19-91ac-4668-a2f6-4250abdb9823" />
+
+5.
+<img width="2139" height="760" alt="image" src="https://github.com/user-attachments/assets/9db5c640-2c6c-4373-9d2a-0311159a2595" />
+
 ## Activity 2.1: Feature branch created
 
 ## Activity 2.2: Docker installed
