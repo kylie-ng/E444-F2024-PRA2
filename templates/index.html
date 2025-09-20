@@ -6,6 +6,9 @@
 {% block content %}
 <div class="page-header">
     <h1>Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}!</h1>
+    {% if email %}
+        <p>Your UofT email is {{ email }}</p>
+    {% endif %}
 </div>
 
 <p>Current time: <span id="time">{{ current_time }}</span></p>
